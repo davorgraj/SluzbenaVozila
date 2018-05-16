@@ -36,7 +36,6 @@ def main():
             save_vehicles_in_txt(vehicles)
         else:
             print "Niste izprali pravilne opcije. Poskusite ponovno"
-            continue
 
 if __name__ == "__main__":
     main()
